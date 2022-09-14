@@ -192,5 +192,8 @@ button {
 
   .card {
     flex-direction: column;
+    border: 2px solid #eb6565;
+    gap: 15px;
   }
+
 }
